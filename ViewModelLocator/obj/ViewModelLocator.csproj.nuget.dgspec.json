@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LiZhiqiang\\Desktop\\PrismDataGird01\\ViewModelLocator\\ViewModelLocator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LiZhiqiang\\Desktop\\PrismDataGird01\\ViewModelLocator\\ViewModelLocator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LiZhiqiang\\Desktop\\PrismDataGird01\\ViewModelLocator\\ViewModelLocator.csproj",
+        "projectName": "ViewModelLocator",
+        "projectPath": "C:\\Users\\LiZhiqiang\\Desktop\\PrismDataGird01\\ViewModelLocator\\ViewModelLocator.csproj",
+        "packagesPath": "C:\\Users\\LiZhiqiang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LiZhiqiang\\Desktop\\PrismDataGird01\\ViewModelLocator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LiZhiqiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
